@@ -31,8 +31,10 @@ Observação: As configurações do appsettings.json da api, é nescessario muda
 
 ## 2. Repositório:
 
-API:
-Pacote:
+
+pacote: [391-CadastroLocalidade.Vue](https://github.com/signaconsultoria/cadastro-de-localidade.Vue)
+
+API: [391-CadastroLocalidade.Vue](https://github.com/signaconsultoria/cadastro-de-localidade.API)
 
 ## 3. Segurança
 
